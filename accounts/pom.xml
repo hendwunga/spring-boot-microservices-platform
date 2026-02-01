@@ -103,7 +103,7 @@
 				<version>3.5.1</version>
 				<configuration>
 					<to>
-						<image>hendrowunga073884/${project.artifactId}:cards</image>
+						<image>hendrowunga073884/${project.artifactId}:accounts</image>
 					</to>
 				</configuration>
 			</plugin>
