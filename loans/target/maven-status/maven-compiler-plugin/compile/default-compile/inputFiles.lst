@@ -1,0 +1,16 @@
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/LoansApplication.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/audit/AuditAwareImpl.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/constants/LoansConstants.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/controller/LoansController.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/dto/ErrorResponseDto.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/dto/LoansDto.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/dto/ResponseDto.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/entity/BaseEntity.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/entity/Loans.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/exception/GlobalExceptionHandler.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/exception/LoanAlreadyExistsException.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/exception/ResourceNotFoundException.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/mapper/LoansMapper.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/repository/LoansRepository.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/service/ILoansService.java
+/home/endos/Documents/IntelijIdea/spring-boot-microservices-platform/loans/src/main/java/com/hend/loans/service/impl/LoansServiceImpl.java
