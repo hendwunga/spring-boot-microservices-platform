@@ -151,7 +151,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>hendwunga/${project.artifactId}:loans</name>
+						<name>hendrowunga073884/${project.artifactId}:loans</name>
 					</image>
 					<excludes>
 						<exclude>
